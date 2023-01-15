@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/ANEJma8.jpg" alt="VPN Logo"/>
+<img src="https://i.imgur.com/ANEJma8.jpg"  height="50%" width="50%" alt="VPN Logo"/>
 </p>
 
 <h1>VPN Setup and Usage</h1>
