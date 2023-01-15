@@ -2,8 +2,7 @@
 <img src="https://i.imgur.com/ANEJma8.jpg"  height="50%" width="50%" alt="VPN Logo"/>
 </p>
 
-<h1>VPN Setup and Usage</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+<h1>VPN Setup and Usage</h1><br />
 
 <h2>Environments and Technologies Used</h2>
 
