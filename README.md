@@ -3,6 +3,7 @@
 </p>
 
 <h1>VPN Setup and Usage</h1><br />
+This tutorial how to setup and use a VPN using Proton VPN.
 
 <h2>Environments and Technologies Used</h2>
 
