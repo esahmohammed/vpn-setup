@@ -17,6 +17,8 @@ This tutorial outline how to setup and use a VPN using Proton VPN.
 
 - Windows 10 (21H2)<br />
 
+<h2>VPN Setup and Usage Steps</h2>
+
 
 <p>
 In this tutorial I will be showing you how a VPN works. VPNs can be used to securely link to networks together from one location to another, being able to send condesne and exncrypted data to each other. You can use a VPN to connect to resources at your work from your own home.<br />
