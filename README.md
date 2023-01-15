@@ -6,6 +6,7 @@
 
 <h2>Environments and Technologies Used</h2>
 
+
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Virtual Private Network
@@ -13,7 +14,7 @@
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 (21H2)
+- Windows 10 (21H2)<br />
 
 
 <p>
