@@ -3,7 +3,7 @@
 </p>
 
 <h1>VPN Setup and Usage</h1><br />
-This tutorial how to setup and use a VPN using Proton VPN.
+This tutorial outline how to setup and use a VPN using Proton VPN.
 
 <h2>Environments and Technologies Used</h2>
 
@@ -38,7 +38,7 @@ Lets check a website such as Amazon, as we can compare this website to Amazon on
 </p>
 
 <p>
-Next lets start using a VPN, I will be using Proton VPN in this example. Link for Proton VPN:
+Next lets start using a VPN, I will be using Proton VPN in this example. Link for Proton VPN:https://protonvpn.com/ <br />
 Simply create an account and download Proton VPN to begin the next step. Once installed, login to Proton VPN and connect to a VPN server in another country. For this example I will connect to Japan, to do so simply hover over the country and select "connect".
 </p>
 
