@@ -28,7 +28,7 @@ https://whatismyipaddress.com/
 </p>
 
 <p>
-<img src="https://i.imgur.com/6XvYu98.png" height="40%" width="40%" alt="Current IP Address"/>
+<img src="https://i.imgur.com/6XvYu98.png" height="80%" width="80%" alt="Current IP Address"/>
 </p>
 
 <p>
@@ -36,7 +36,7 @@ Lets check a website such as Amazon, as we can compare this website to Amazon on
 </p>
 
 <p>
-<img src="https://i.imgur.com/JnpP9Mm.png" height="40%" width="40%" alt="Amazon in current region"/>
+<img src="https://i.imgur.com/JnpP9Mm.png" height="80%" width="80%" alt="Amazon in current region"/>
 </p>
 
 <p>
@@ -45,7 +45,7 @@ Simply create an account and download Proton VPN to begin the next step. Once in
 </p>
 
 <p>
-<img src="https://i.imgur.com/lGOaxzp.png" height="40%" width="40%" alt="VPN connected to Netherlands"/>
+<img src="https://i.imgur.com/lGOaxzp.png" height="80%" width="80%" alt="VPN connected to Netherlands"/>
 </p>
 
 <p>
@@ -53,7 +53,7 @@ After connecting to the VPN server in another country, restart your browser and 
 </p>
 
 <p>
-<img src="https://i.imgur.com/WdKfY5d.png" height="40%" width="40%" alt="New IP Address and region"/>
+<img src="https://i.imgur.com/WdKfY5d.png" height="80%" width="80%" alt="New IP Address and region"/>
 </p>
 
 <p>
@@ -61,5 +61,5 @@ While still connected to the VPN server, we can browse to websites such as Googl
 </p>
 
 <p>
-<img src="https://i.imgur.com/NNI7Gx9.png" height="40%" width="40%" alt="Amazon in another region with the use of a vpn"/>
+<img src="https://i.imgur.com/NNI7Gx9.png" height="80%" width="80%" alt="Amazon in another region with the use of a vpn"/>
 </p>
