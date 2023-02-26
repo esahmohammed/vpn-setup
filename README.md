@@ -3,7 +3,7 @@
 </p>
 
 <h1>VPN Setup and Usage</h1><br />
-This tutorial outline how to setup and use a VPN using Proton VPN.
+This tutorial outlines how to setup and use a VPN using Proton VPN.
 
 <h2>Environments and Technologies Used</h2>
 
@@ -21,7 +21,7 @@ This tutorial outline how to setup and use a VPN using Proton VPN.
 
 
 <p>
-In this tutorial I will be showing you how a VPN works. VPNs can be used to securely link to networks together from one location to another, being able to send condesne and exncrypted data to each other. You can use a VPN to connect to resources at your work from your own home.<br />
+In this tutorial I will be showing you how a VPN works. VPNs can be used to securely link to networks together from one location to another, being able to send condensed and encrypted data to each other. You can use a VPN to connect to resources at your work from your own home.<br />
 
 Okay now that we know what a VPN is we can start by checking our current IP Address using a Virtual machine, we can use our own device but for the purpose of this tutorial I will be using a VM for privacy reasons. Go over to this link I have provided below and you should see your IPv4 Address as well as the City, Region and Country that you are located.
 https://whatismyipaddress.com/
